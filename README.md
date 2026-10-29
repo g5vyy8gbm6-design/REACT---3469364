@@ -63,3 +63,6 @@ React solo se encarga de la interfaz grafica para el resto utilizamos
     - 8.3 crea src/config/db.js conexion con DB
     - 8.4 crea src/middlewares/verificarToken.js valida el token JWT en rutas protegidas
     - 8.5 crea src/controllers/auth.controller.js es la logica de inicio de sesion
+    - 8.6 crea src/routes/auth.routes.js conecta las rutas con el controlador
+    - 8.7 crea src/server.js arma la app de express
+    - 8.8 crea en backend seed.js crea el usuario administrador
